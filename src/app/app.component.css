@@ -1,0 +1,4 @@
+@import '~angular-tree-component/dist/angular-tree-component.css';
+.cdk-overlay-container {
+  margin-left:50px;
+}
